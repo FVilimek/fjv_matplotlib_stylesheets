@@ -38,15 +38,10 @@ ytick.direction : "in"
 #---------------------------------------
 # GRID
 #---------------------------------------
-grid.major.linewidth : 0.5
-grid.major.color : "gray"
-grid.major.linestyle : "-"
-grid.major.alpha : 1
-
-grid.minor.linewidth : 0.2
-grid.minor.color : "gray"
-grid.minor.linestyle : "--"
-grid.minor.alpha : 1
+grid.linewidth : 0.5
+grid.color : "gray"
+grid.linestyle : "-"
+grid.alpha : 1
 
 #---------------------------------------
 # LEGEND
@@ -60,7 +55,7 @@ legend.markerscale : 1.5
 #---------------------------------------
 # COLORS
 #---------------------------------------
-axes.prop_cycle : cycler(color="okabe_ito")
+axes.prop_cycle : cycler(color="Set1")
 
 #---------------------------------------
 # SCATTER
