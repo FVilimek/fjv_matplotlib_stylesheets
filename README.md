@@ -1,7 +1,7 @@
 # Matplotlib Style Sheets for Scientific Plotting.
 A small collection of Matplotlib style sheets that I used for my Master's thesis. Mainly intended for my own personal use, but you are free to use them.
 
-<img src="./fjv-scientific1 example.png" width=800>
+<img src="./img/fjv-scientific1 example.png" width=800>
 <em>^Made using fjv-scientific1.mplstyle</em>
 
 ## How to Use
