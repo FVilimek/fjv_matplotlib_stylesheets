@@ -1,5 +1,5 @@
 # Matplotlib Style Sheets for Scientific Plotting.
-A small collection of Matplotlib style sheets that I used for my Master's thesis. Mainly intended for my own personal use, but you are free to use them.
+A small collection of Matplotlib style sheets that I used for my Master's thesis. Mainly intended for my own personal use, but you are free to use them. Compatible to use in Jupyter Notebooks/Google Colab.
 
 <img src="./img/fjv-scientific1 example.png" width=800>
 <em>^Made using fjv-scientific1.mplstyle</em>
