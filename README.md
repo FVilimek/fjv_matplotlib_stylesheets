@@ -9,4 +9,6 @@ After ```import matplotlib as plt```, put this line immediately after:
 ```python
 plt.style.use('https://github.com/FVilimek/fjv_matplotlib_stylesheets/raw/main/[style sheet].mplstyle')
 ```
-You should be good to go. Color palette borrowed from <a href="https://github.com/nicoguaro/matplotlib_styles/blob/master/README.md">matplotlb_style</a> by nicoguaro.
+You should be good to go. <br>
+Color palette borrowed from <a href="https://github.com/nicoguaro/matplotlib_styles/blob/master/README.md">matplotlb_style</a> by nicoguaro. <br>
+If you want an indispensable resource for style sheets, see the <a href="https://matplotlib.org/stable/users/explain/customizing.html">Matplotlib documentation</a>.
