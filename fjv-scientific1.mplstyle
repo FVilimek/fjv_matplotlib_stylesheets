@@ -51,6 +51,7 @@ legend.shadow : True
 legend.edgecolor : 0.1
 legend.frameon : True
 legend.markerscale : 1.5
+legend.labelspacing : 0.15
 
 #---------------------------------------
 # COLORS
